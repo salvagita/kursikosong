@@ -1,0 +1,3 @@
+aplikasi ini menggunakan dataset dari kursi mainan untuk kebutuhan skripsi
+
+developer : ARPIAN
